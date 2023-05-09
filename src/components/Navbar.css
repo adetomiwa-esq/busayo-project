@@ -1,0 +1,29 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.comp-logo {
+    font-size: 2rem;
+    margin-left: 4%;
+    color: rgb(153, 153, 18);
+    display: flex;
+    align-items: center;
+}
+
+.nav {
+    display: flex;
+    height: 60px;
+    background: black;
+    align-items: center;
+    padding-left: 4%;
+}
+
+.fa-earth-africa {
+    font-size: 18px;
+}
+
+.logo {
+    text-decoration: none;
+    justify-items: center;
+}
